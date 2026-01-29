@@ -2,7 +2,7 @@
 
 1. -make folder named "calendar-app-ubuntu" in home folder
 
-2. -place both files in this folder
+2. -place build.sh and calendar_app.py in this folder
 
 3. -open terminal and copy this into terminal and press enter: chmod +x ~/calendar-app-ubuntu/build.sh
 
